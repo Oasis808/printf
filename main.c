@@ -9,8 +9,8 @@
  *     */
 int main(void)
 {
-int len;
-int len2;
+	    int len;
+	        int len2;
 		    unsigned int ui;
 		        void *addr;
 
@@ -40,5 +40,6 @@ int len2;
 														        printf("Len:[%d]\n", len2);
 															    _printf("Unknown:[%r]\n");
 															        printf("Unknown:[%r]\n");
-return (0);
+																    return (0);
 }
+
